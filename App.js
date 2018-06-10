@@ -5,7 +5,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Mi primera app en react-native!</Text>
+        <Text>Ejecutando codigo desde el portatil!</Text>
         <Image source={{uri: 'https://media1.tenor.com/images/ea9df861113fecec5bb17bf1faa0124e/tenor.gif'}}
           style={{width: 350, height: 200}}
         />
